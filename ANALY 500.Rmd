@@ -173,7 +173,12 @@ Note that in last question, in the result session shows: *true difference in mea
 
 ### Q14 
 
+```{r}
+
 table(res$res, res$s)
+
+```
+
 
 ### Q15 
 
